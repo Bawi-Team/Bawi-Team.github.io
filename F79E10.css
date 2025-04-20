@@ -1,3 +1,7 @@
+html {
+	scrollbar-color: #b32c17 Canvas;
+}
+
 body {
 	max-width: 745px;
 	margin: auto !important;
@@ -10,7 +14,16 @@ body {
 	overflow-x: hidden;
 	overflow-y: scroll;
 
-	background-color: white;
+	accent-color: #b32c17;
+}
+
+em, a:link, a:visited {
+	color: #b32c17;
+}
+
+a:active, a:hover {
+	color: black;
+	background-color: #b32c17;
 }
 
 .img {
