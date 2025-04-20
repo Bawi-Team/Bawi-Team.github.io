@@ -15,6 +15,10 @@ body {
 	overflow-y: scroll;
 
 	accent-color: #b32c17;
+
+	text-align: justify !important;
+	text-justify: inter-character;
+	hyphens: auto;
 }
 
 em, a:link, a:visited {
