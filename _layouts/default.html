@@ -92,7 +92,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		<div class="carousel-inner">
 			{% for item in d.foto %}
 			<div class="carousel-item {% if forloop.first %}active{% endif %}">
-				<img src="{{ item.src }}" class="d-block w-100">
+				<img src="foto/{{ item.src }}" class="d-block w-100">
 				<div class="carousel-caption d-none d-md-block">
 					<h5>{{ item.data }}</h5>
 					<p>{{ item.desc }}</p>
