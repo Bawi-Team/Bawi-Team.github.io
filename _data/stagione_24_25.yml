@@ -1,0 +1,58 @@
+tornei:
+  - titolo: "CSI Primaverile 24/25"
+    descrizione: "Torneo del Centro Sportivo Italiano a 6 squadre."
+    partite:
+      - { data: "14/03/2025", avversario: "Reuma Volley", risultato: "1 · 3", classe: "text-danger" }
+      - { data: "28/03/2025", avversario: "New Kids On The Block", risultato: "0 · 3", classe: "text-danger" }
+      - { data: "04/04/2025", avversario: "Oratorio Santa Valeria", risultato: "0 · 3", classe: "text-danger" }
+      - { data: "11/04/2025", avversario: "Volley Cup Team Blu", risultato: "3 · 2", classe: "text-success" }
+      - { data: "17/04/2025", avversario: "Reuma Volley", risultato: "1 · 3", classe: "text-danger" }
+      - { data: "02/05/2025", avversario: "New Kids On The Block", risultato: "0 · 3", classe: "text-danger" }
+      - { data: "06/05/2025", avversario: "JoJo Stars", risultato: "3 · 0", classe: "text-success" }
+      - { data: "09/05/2025", avversario: "Oratorio Santa Valeria", risultato: "1 · 3", classe: "text-danger" }
+      - { data: "15/05/2025", avversario: "Volley Cup Team Blu", risultato: "1 · 3", classe: "text-danger" }
+      - { data: "22/05/2025", avversario: "JoJo Stars", risultato: "3 · 0", classe: "text-success" }
+
+  - titolo: "Volley CUP Winter 24/25"
+    descrizione: "Torneo della Volley CUP a 6 squadre."
+    partite:
+      - { data: "08/11/2024", avversario: "JoJo Stars", risultato: "3 · 0", classe: "text-success" }
+      - { data: "15/11/2024", avversario: "TVS", risultato: "0 · 3", classe: "text-danger" }
+      - { data: "01/12/2024", avversario: "San Marco", risultato: "0 · 3", classe: "text-danger" }
+      - { data: "06/12/2024", avversario: "Volley Dasa", risultato: "3 · 1", classe: "text-success" }
+      - { data: "15/12/2024", avversario: "Cimiano al volo", risultato: "2 · 3", classe: "text-danger" }
+      - { data: "17/01/2025", avversario: "Cimiano al volo", risultato: "3 · 1", classe: "text-success" }
+      - { data: "23/01/2025", avversario: "JoJo Stars", risultato: "3 · 0", classe: "text-success" }
+      - { data: "30/01/2025", avversario: "TVS", risultato: "3 · 2", classe: "text-success" }
+      - { data: "21/02/2025", avversario: "Volley Dasa", risultato: "1 · 3", classe: "text-danger" }
+      - { data: "27/02/2025", avversario: "San Marco", risultato: "1 · 3", classe: "text-danger" }
+
+foto:
+  - { src: "match_2025_05_22.jpg", data: "22/05/2025", desc: "Contro i JoJo Stars" }
+  - { src: "match_2025_05_15.jpg", data: "15/05/2025", desc: "Contro i Volley Cup Team Blu" }
+  - { src: "match_2025_04_11.jpg", data: "11/04/2025", desc: "Contro i Volley Cup Team Blu" }
+  - { src: "match_2025_01_30.jpg", data: "30/01/2025", desc: "Contro i TVS" }
+  - { src: "match_2025_01_23.jpg", data: "23/01/2025", desc: "Contro i JoJo Stars" }
+  - { src: "match_2025_01_17.jpg", data: "17/01/2025", desc: "Contro i Cimiano al volo" }
+  - { src: "natale_2024.jpg", data: "17/12/2024", desc: "Buon Natale dal Bawi Team" }
+  - { src: "match_2024_12_06.jpg", data: "06/12/2024", desc: "Contro i Volley Dasa" }
+  - { src: "match_2024_11_15.jpg", data: "15/11/2024", desc: "Contro i TVS" }
+  - { src: "match_2024_11_08.jpg", data: "08/11/2024", desc: "Contro i JoJo Stars" }
+
+rosa:
+  - { nome: "Andrea", numero: "", ruolo: "", figura: "A", figura_classe: "text-warning", militanza: 1 }
+  - { nome: "Rico", numero: 3, ruolo: "O", figura: "C", figura_classe: "text-primary", militanza: 5 }
+  - { nome: "Fabri", numero: 8, ruolo: "O", figura: "", militanza: 1 }
+  - { nome: "Lollo", numero: 6, ruolo: "B", figura: "V", figura_classe: "text-info", militanza: 4 }
+  - { nome: "Elitsa", numero: 10, ruolo: "B", figura: "", militanza: 4 }
+  - { nome: "Ele", numero: 16, ruolo: "B", figura: "", militanza: 1 }
+  - { nome: "Marghe", numero: 19, ruolo: "B", figura: "", militanza: 2 }
+  - { nome: "Mosi", numero: 21, ruolo: "C", figura: "", militanza: 4 }
+  - { nome: "Elga", numero: 23, ruolo: "C", figura: "", militanza: 2 }
+  - { nome: "Leo", numero: 4, ruolo: "C", figura: "", militanza: 2 }
+  - { nome: "Tommy", numero: 97, ruolo: "C", figura: "", militanza: 2 }
+  - { nome: "La", numero: 24, ruolo: "P", figura: "", militanza: 5 }
+  - { nome: "Lucrezia", numero: 12, ruolo: "P", figura: "", militanza: 1 }
+  - { nome: "Ipnotix", numero: 17, ruolo: "P", figura: "", militanza: 2 }
+  - { nome: "Giulia", numero: 29, ruolo: "L", figura: "", militanza: 1 }
+  - { nome: "Piero", numero: 11, ruolo: "L", figura: "", militanza: 5 }

@@ -1,0 +1,36 @@
+html {
+	scrollbar-color: #b32c17 Canvas;
+}
+
+body {
+	max-width: 745px;
+	margin: auto !important;
+	
+	padding-top: 0px;
+	padding-bottom: 10px;
+	padding-right: 10px;	
+	padding-left: 10px;
+
+	overflow-x: hidden;
+	overflow-y: scroll;
+
+	accent-color: #b32c17;
+
+	text-align: justify !important;
+	text-justify: inter-character;
+	hyphens: auto;
+}
+
+em, a:link, a:visited {
+	color: #b32c17;
+}
+
+a:active, a:hover {
+	color: black;
+	background-color: #b32c17;
+}
+
+.img {
+	width: 1.2em;
+	height: auto;
+}

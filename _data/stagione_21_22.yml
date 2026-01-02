@@ -1,0 +1,59 @@
+tornei:
+  - titolo: "Volley CUP Winter 21/22"
+    descrizione: "Torneo della Volley CUP a 10 squadre."
+    partite:
+      - { data: "09/11/2021", avversario: "Volley in Fuga", risultato: "2 · 3", classe: "text-danger" }
+      - { data: "17/11/2021", avversario: "TVS Silver", risultato: "3 · 2", classe: "text-success" }
+      - { data: "06/12/2021", avversario: "All Star", risultato: "1 · 4", classe: "text-danger" }
+      - { data: "20/12/2021", avversario: "007", risultato: "3 · 2", classe: "text-success" }
+      - { data: "02/02/2022", avversario: "Plesios", risultato: "3 · 2", classe: "text-success" }
+      - { data: "09/02/2022", avversario: "Volley in Fuga", risultato: "2 · 3", classe: "text-danger" }
+      - { data: "15/02/2022", avversario: "TVS Silver", risultato: "2 · 3", classe: "text-danger" }
+      - { data: "21/02/2022", avversario: "Takalabala", risultato: "5 · 0", classe: "text-success" }
+      - { data: "09/03/2022", avversario: "All Star", risultato: "4 · 1", classe: "text-success" }
+      - { data: "16/03/2022", avversario: "007", risultato: "4 · 1", classe: "text-success" }
+      - { data: "24/03/2022", avversario: "Ad Astra Volley", risultato: "3 · 2", classe: "text-success" }
+      - { data: "30/03/2022", avversario: "Cantalupo", risultato: "5 · 0", classe: "text-success" }
+      - { data: "04/04/2022", avversario: "Olimpia PB", risultato: "1 · 4", classe: "text-danger" }
+      - { data: "06/04/2022", avversario: "Takalabala", risultato: "4 · 1", classe: "text-success" }
+      - { data: "20/04/2022", avversario: "Plesios", risultato: "4 · 1", classe: "text-success" }
+      - { data: "27/04/2022", avversario: "Ad Astra Volley", risultato: "3 · 2", classe: "text-success" }
+      - { data: "02/05/2022", avversario: "Olimpia PB", risultato: "2 · 3", classe: "text-danger" }
+      - { data: "05/05/2022", avversario: "Cantalupo", risultato: "3 · 2", classe: "text-success" }
+
+  - titolo: "Torneo Gate-Bulls 21/22"
+    descrizione: "Torneo a 6 squadre delle società gemellate Black Bulls Volley e Gate Volley."
+    partite:
+      - { data: "01/12/2021", avversario: "Gate Blu", risultato: "3 · 2", classe: "text-success" }
+      - { data: "02/12/2021", avversario: "Volley School Mista", risultato: "3 · 0", classe: "text-success" }
+      - { data: "10/12/2021", avversario: "Gate Yellow", risultato: "0 · 3", classe: "text-danger" }
+      - { data: "11/03/2022", avversario: "Volley School Maschile", risultato: "1 · 3", classe: "text-danger" }
+      - { data: "25/03/2022", avversario: "Cimiano", risultato: "1 · 3", classe: "text-danger" }
+
+foto:
+  - { src: "match_2022_05_05.jpg", data: "05/05/2022", desc: "Contro i Cantalupo" }
+  - { src: "match_2022_03_30.jpg", data: "30/03/2022", desc: "Contro i Cantalupo" }
+  - { src: "match_2022_03_24.jpg", data: "24/03/2022", desc: "Contro gli Ad Astra Volley" }
+  - { src: "match_2022_03_16.jpg", data: "16/03/2022", desc: "Contro gli 007" }
+  - { src: "match_2022_03_09.jpg", data: "09/03/2022", desc: "Contro gli All Star" }
+  - { src: "match_2022_02_22.jpg", data: "22/02/2022", desc: "Contro i Takalabala" }
+  - { src: "match_2021_12_01.jpg", data: "01/12/2021", desc: "Contro i Gate Blu" }
+  - { src: "match_2021_11_18.jpg", data: "18/11/2021", desc: "Contro i TVS Silver" }
+  - { src: "match_2021_11_09.jpg", data: "09/11/2021", desc: "Contro i Volley in Fuga" }
+
+rosa:
+  - { nome: "Rico", numero: 3, ruolo: "B", figura: "C", figura_classe: "text-primary", militanza: 2 }
+  - { nome: "Lollo", numero: 6, ruolo: "B", figura: "V", figura_classe: "text-info", militanza: 1 }
+  - { nome: "iCioppi", numero: 1, ruolo: "B", figura: "", militanza: 2 }
+  - { nome: "Piero", numero: 11, ruolo: "B", figura: "", militanza: 2 }
+  - { nome: "Ele", numero: 16, ruolo: "B", figura: "", militanza: 1 }
+  - { nome: "Eli", numero: 13, ruolo: "O", figura: "", militanza: 1 }
+  - { nome: "Elitsa", numero: 10, ruolo: "O", figura: "", militanza: 1 }
+  - { nome: "Filo", numero: 26, ruolo: "C", figura: "", militanza: 2 }
+  - { nome: "Mosi", numero: 21, ruolo: "C", figura: "", militanza: 2 }
+  - { nome: "Squilla", numero: 9, ruolo: "C", figura: "", militanza: 2 }
+  - { nome: "Nello", numero: 27, ruolo: "C", figura: "", militanza: 1 }
+  - { nome: "La", numero: 24, ruolo: "P", figura: "", militanza: 2 }
+  - { nome: "Laura", numero: 74, ruolo: "P", figura: "", militanza: 1 }
+  - { nome: "Giuli", numero: 25, ruolo: "L", figura: "", militanza: 1 }
+  - { nome: "Ale", numero: 4, ruolo: "L", figura: "", militanza: 2 }

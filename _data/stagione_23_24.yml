@@ -1,0 +1,83 @@
+tornei:
+  - titolo: "CSI Primaverile 23/24"
+    descrizione: "Torneo del Centro Sportivo Italiano a 10 squadre."
+    partite:
+      - { data: "07/04/2024", avversario: "Primavera 2005", risultato: "3 · 2", classe: "text-success" }
+      - { data: "10/04/2024", avversario: "Vittorini", risultato: "0 · 3", classe: "text-danger" }
+      - { data: "19/04/2024", avversario: "Rozzano Volley", risultato: "0 · 3", classe: "text-danger" }
+      - { data: "24/04/2024", avversario: "ODB Castelletto", risultato: "0 · 3", classe: "text-danger" }
+      - { data: "05/05/2024", avversario: "Nabor", risultato: "1 · 3", classe: "text-danger" }
+      - { data: "08/05/2024", avversario: "Assisi", risultato: "1 · 3", classe: "text-danger" }
+      - { data: "19/05/2024", avversario: "Fides SMA", risultato: "2 · 3", classe: "text-danger" }
+      - { data: "22/05/2024", avversario: "OMF Milano", risultato: "1 · 3", classe: "text-danger" }
+      - { data: "29/05/2024", avversario: "ZonaOtto", risultato: "3 · 2", classe: "text-success" }
+
+  - titolo: "CLEM CUP 23/24"
+    descrizione: "Torneo della CLEM CUP a 13 squadre."
+    partite:
+      - { data: "19/03/2024", avversario: "Sporting Club", risultato: "1 · 3", classe: "text-danger" }
+      - { data: "26/03/2024", avversario: "Baita Nera", risultato: "0 · 3", classe: "text-danger" }
+      - { data: "05/04/2024", avversario: "Overtime volley", risultato: "1 · 3", classe: "text-danger" }
+      - { data: "12/04/2024", avversario: "NSC Volley", risultato: "1 · 3", classe: "text-danger" }
+      - { data: "21/04/2024", avversario: "New SC Monza", risultato: "0 · 3", classe: "text-danger" }
+      - { data: "02/05/2024", avversario: "Baita Volley Biancoblu", risultato: "3 · 0", classe: "text-success" }
+      - { data: "12/05/2024", avversario: "GSO Vimodrone", risultato: "3 · 1", classe: "text-success" }
+      - { data: "16/05/2024", avversario: "Pantigliate", risultato: "2 · 3", classe: "text-danger" }
+      - { data: "17/05/2024", avversario: "ZeroNove", risultato: "0 · 3", classe: "text-danger" }
+      - { data: "24/05/2024", avversario: "NCS Rookies", risultato: "3 · 0", classe: "text-success" }
+      - { data: "26/05/2024", avversario: "Evergreen", risultato: "0 · 3", classe: "text-danger" }
+      - { data: "31/05/2024", avversario: "Spennuti", risultato: "0 · 3", classe: "text-danger" }
+
+  - titolo: "CSI Invernale 23/24"
+    descrizione: "Torneo del Centro Sportivo Italiano a 9 squadre."
+    partite:
+      - { data: "21/10/2023", avversario: "Ascot Triante Nsc", risultato: "0 · 3", classe: "text-danger" }
+      - { data: "08/11/2023", avversario: "Baita Nera", risultato: "0 · 3", classe: "text-danger" }
+      - { data: "14/11/2023", avversario: "Pantigliate Polisportiva", risultato: "0 · 3", classe: "text-danger" }
+      - { data: "22/11/2023", avversario: "GSO Vimodrone", risultato: "0 · 3", classe: "text-danger" }
+      - { data: "30/11/2023", avversario: "CGB", risultato: "2 · 3", classe: "text-danger" }
+      - { data: "06/12/2023", avversario: "Ascot Triante Young", risultato: "3 · 1", classe: "text-success" }
+      - { data: "13/12/2023", avversario: "GAN Mista", risultato: "2 · 3", classe: "text-danger" }
+      - { data: "10/01/2024", avversario: "Ascot Triante Nsc", risultato: "3 · 2", classe: "text-success" }
+      - { data: "21/01/2024", avversario: "Ascot Triante Young", risultato: "3 · 0", classe: "text-success" }
+      - { data: "31/01/2024", avversario: "Astra Phoenix Apx", risultato: "2 · 3", classe: "text-danger" }
+      - { data: "05/02/2024", avversario: "Astra Phoenix Apx", risultato: "3 · 2", classe: "text-success" }
+      - { data: "11/02/2024", avversario: "Baita Nera", risultato: "0 · 3", classe: "text-danger" }
+      - { data: "22/02/2024", avversario: "GSO Vimodrone", risultato: "3 · 1", classe: "text-success" }
+      - { data: "28/02/2024", avversario: "CGB", risultato: "2 · 3", classe: "text-danger" }
+      - { data: "06/03/2024", avversario: "Pantigliate Polisportiva", risultato: "0 · 3", classe: "text-danger" }
+      - { data: "08/03/2024", avversario: "GAN Mista", risultato: "2 · 3", classe: "text-danger" }
+
+foto:
+  - { src: "match_2024_05_24.jpg", data: "24/05/2024", desc: "Con gli NCS Rookies" }
+  - { src: "match_2024_05_17.jpg", data: "17/05/2024", desc: "Con gli ZeroNove" }
+  - { src: "match_2024_05_12.jpg", data: "12/05/2024", desc: "Con i GSO Vimodrone" }
+  - { src: "match_2024_04_07.jpg", data: "07/04/2024", desc: "Contro i Primavera 2005" }
+  - { src: "match_2024_03_26.jpg", data: "26/03/2024", desc: "Con i Baita Nera" }
+  - { src: "match_2024_03_19.jpg", data: "19/03/2024", desc: "Con gli Sporting Club" }
+  - { src: "match_2024_02_22.jpg", data: "22/02/2024", desc: "Contro i GSO Vimodrone" }
+  - { src: "match_2024_02_05.jpg", data: "05/02/2024", desc: "Contro gli Astra Phoenix Apx" }
+  - { src: "match_2024_01_21.jpg", data: "21/01/2024", desc: "Contro gli Ascot Triante Young" }
+  - { src: "match_2024_01_10.jpg", data: "10/01/2024", desc: "Contro gli Ascot Triante Nsc" }
+  - { src: "match_2023_12_06.jpg", data: "06/12/2023", desc: "Contro gli Ascot Triante Young" }
+
+rosa:
+  - { nome: "Yessica", numero: "", ruolo: "", figura: "A", figura_classe: "text-warning", militanza: 2 }
+  - { nome: "Rico", numero: 3, ruolo: "B", figura: "C", figura_classe: "text-primary", militanza: 4 }
+  - { nome: "iCioppi", numero: 1, ruolo: "B", figura: "", militanza: 4 }
+  - { nome: "Sofia", numero: 25, ruolo: "B", figura: "", militanza: 1 }
+  - { nome: "Nico", numero: 28, ruolo: "B", figura: "", militanza: 1 }
+  - { nome: "Leo", numero: 4, ruolo: "B", figura: "", militanza: 1 }
+  - { nome: "Adri", numero: 8, ruolo: "O", figura: "", militanza: 1 }
+  - { nome: "Elitsa", numero: 10, ruolo: "O", figura: "", militanza: 3 }
+  - { nome: "Eli", numero: 13, ruolo: "O", figura: "", militanza: 3 }
+  - { nome: "Lollo", numero: 6, ruolo: "C", figura: "V", figura_classe: "text-info", militanza: 3 }
+  - { nome: "Ghiro", numero: 15, ruolo: "C", figura: "", militanza: 2 }
+  - { nome: "Tommy", numero: 97, ruolo: "C", figura: "", militanza: 1 }
+  - { nome: "Elga", numero: 23, ruolo: "C", figura: "", militanza: 1 }
+  - { nome: "Adriano", numero: 2, ruolo: "C", figura: "", militanza: 1 }
+  - { nome: "Ipnotix", numero: 9, ruolo: "P", figura: "", militanza: 1 }
+  - { nome: "La", numero: 24, ruolo: "P", figura: "", militanza: 4 }
+  - { nome: "Laura", numero: 74, ruolo: "P", figura: "", militanza: 3 }
+  - { nome: "Piero", numero: 11, ruolo: "L", figura: "", militanza: 4 }
+  - { nome: "Giuli", numero: 7, ruolo: "L", figura: "", militanza: 3 }

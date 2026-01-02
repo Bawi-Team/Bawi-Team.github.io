@@ -1,0 +1,61 @@
+tornei:
+  - titolo: "Volley CUP Winter 19/20"
+    descrizione: "Torneo della Volley CUP a 12 squadre."
+    partite:
+      - { data: "29/10/2019", avversario: "Drink Team", risultato: "0 · 5", classe: "text-danger" }
+      - { data: "04/11/2019", avversario: "Dragon Volley", risultato: "1 · 4", classe: "text-danger" }
+      - { data: "15/11/2019", avversario: "Zeronove Wildrake", risultato: "1 · 4", classe: "text-danger" }
+      - { data: "20/11/2019", avversario: "Plesios", risultato: "5 · 0", classe: "text-success" }
+      - { data: "05/12/2019", avversario: "Diavoli Rosa Over Pink", risultato: "1 · 4", classe: "text-danger" }
+      - { data: "09/12/2019", avversario: "Olimpia PB", risultato: "1 · 4", classe: "text-danger" }
+      - { data: "16/12/2019", avversario: "All Blacks", risultato: "1 · 4", classe: "text-danger" }
+      - { data: "09/01/2020", avversario: "Zeronove 007", risultato: "3 · 2", classe: "text-success" }
+      - { data: "18/01/2020", avversario: "Volley Segrate 1978", risultato: "0 · 5", classe: "text-danger" }
+      - { data: "21/01/2020", avversario: "Wonder Wall", risultato: "0 · 5", classe: "text-danger" }
+      - { data: "30/01/2020", avversario: "Oldfighters", risultato: "0 · 5", classe: "text-danger" }
+
+  - titolo: "Torneo Gate-Bulls 19/20"
+    descrizione: "Torneo a 6 squadre delle società gemellate Black Bulls Volley e Gate Volley."
+    partite:
+      - { data: "27/01/2020", avversario: "Gate Volley Blu", risultato: "3 · 0", classe: "text-success" }
+      - { data: "05/02/2020", avversario: "TNT", risultato: "0 · 3", classe: "text-danger" }
+      - { data: "07/02/2020", avversario: "Gate Volley Yellow", risultato: "3 · 2", classe: "text-success" }
+      - { data: "13/02/2020", avversario: "BB Cimiano", risultato: "0 · 3", classe: "text-danger" }
+      - { data: "19/02/2020", avversario: "TNT", risultato: "0 · 0", classe: "" }
+
+foto:
+  - src: "match_2020_02_05.jpg"
+    data: "05/02/2020"
+    desc: "Con i TNT"
+  - src: "match_2019_12_16.jpg"
+    data: "16/12/2019"
+    desc: "Contro gli All Blacks"
+  - src: "match_2019_11_15.jpg"
+    data: "15/11/2019"
+    desc: "Contro gli Zeronove Wildrake"
+  - src: "match_2019_11_04.jpg"
+    data: "04/11/2019"
+    desc: "Contro i Dragon Volley"
+  - src: "match_2019_10_29.jpg"
+    data: "29/10/2019"
+    desc: "Contro il Drink Team"
+
+rosa:
+  - { nome: "Rico", numero: 3, ruolo: "B", figura: "V", figura_classe: "text-info", militanza: 1 }
+  - { nome: "iCioppi", numero: 1, ruolo: "B", figura: "", militanza: 1 }
+  - { nome: "Piero", numero: 11, ruolo: "B", figura: "", militanza: 1 }
+  - { nome: "Fede", numero: 14, ruolo: "B", figura: "", militanza: 1 }
+  - { nome: "Anna", numero: 17, ruolo: "B", figura: "", militanza: 1 }
+  - { nome: "Carla", numero: 18, ruolo: "B", figura: "", militanza: 1 }
+  - { nome: "Marghe", numero: 19, ruolo: "B", figura: "", militanza: 1 }
+  - { nome: "Filo", numero: 26, ruolo: "B", figura: "", militanza: 1 }
+  - { nome: "Miky", numero: 0, ruolo: "C", figura: "C", figura_classe: "text-primary", militanza: 1 }
+  - { nome: "Sarthak", numero: 15, ruolo: "C", figura: "", militanza: 1 }
+  - { nome: "Mosi", numero: 21, ruolo: "C", figura: "", militanza: 1 }
+  - { nome: "Squilla", numero: 9, ruolo: "C", figura: "", militanza: 1 }
+  - { nome: "Sargun", numero: 2, ruolo: "C", figura: "", militanza: 1 }
+  - { nome: "Ale", numero: 4, ruolo: "C", figura: "", militanza: 1 }
+  - { nome: "La", numero: 24, ruolo: "P", figura: "", militanza: 1 }
+  - { nome: "Laura", numero: 7, ruolo: "P", figura: "", militanza: 1 }
+  - { nome: "Daya", numero: 12, ruolo: "L", figura: "", militanza: 1 }
+  - { nome: "Francy", numero: 8, ruolo: "L", figura: "", militanza: 1 }

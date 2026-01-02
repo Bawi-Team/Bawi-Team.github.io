@@ -1,0 +1,37 @@
+tornei:
+  - titolo: "US ACLI - Italian Volley League Invernale 25/26"
+    descrizione: "Torneo del Unione Sportiva Associazioni Cristiane Lavoratori Italiani a 8 squadre."
+    partite:
+      - { data: "06/11/2025", avversario: "Volley Dasa", risultato: "0 · 3", classe: "text-danger" }
+      - { data: "11/11/2025", avversario: "TVS", risultato: "1 · 3", classe: "text-danger" }
+      - { data: "13/11/2025", avversario: "Ribbelly", risultato: "0 · 3", classe: "text-danger" }
+      - { data: "23/11/2025", avversario: "SuperTeam", risultato: "0 · 3", classe: "text-danger" }
+      - { data: "26/11/2025", avversario: "PM Sport", risultato: "2 · 3", classe: "text-danger" }
+      - { data: "04/12/2025", avversario: "Sporting M2", risultato: "3 · 2", classe: "text-success" }
+      - { data: "11/12/2025", avversario: "Black Bulls S", risultato: "0 · 3", classe: "text-danger" }
+      - { data: "16/01/2026", avversario: "Volley Dasa", risultato: "", classe: "" }
+      - { data: "23/01/2026", avversario: "Ribbelly", risultato: "", classe: "" }
+      - { data: "29/01/2026", avversario: "SuperTeam", risultato: "", classe: "" }
+      - { data: "03/02/2026", avversario: "TVS", risultato: "", classe: "" }
+      - { data: "05/02/2026", avversario: "PM Sport", risultato: "", classe: "" }
+      - { data: "12/02/2026", avversario: "Sporting M2", risultato: "", classe: "" }
+      - { data: "18/02/2026", avversario: "Black Bulls S", risultato: "", classe: "" }
+
+foto:
+  - { src: "match_2025_12_04.jpg", data: "04/12/2025", desc: "Contro gli Sporting M2" }
+  - { src: "match_2025_12_04_b.jpg", data: "04/12/2025", desc: "Contro gli Sporting M2" }
+  - { src: "match_2025_11_26.jpg", data: "26/11/2025", desc: "Contro i PM Sport" }
+  - { src: "match_2025_11_23.jpg", data: "23/11/2025", desc: "Contro i SuperTeam" }
+
+rosa:
+  - { nome: "Ipnotix", numero: 17, ruolo: "P", figura: "V", figura_classe: "text-info", militanza: 3 }
+  - { nome: "Leo", numero: 4, ruolo: "C", figura: "C", figura_classe: "text-primary", militanza: 3 }
+  - { nome: "Mosi", numero: 21, ruolo: "C", figura: "", militanza: 5 }
+  - { nome: "Elga", numero: 23, ruolo: "C", figura: "", militanza: 3 }
+  - { nome: "Tommy", numero: 97, ruolo: "C", figura: "", militanza: 3 }
+  - { nome: "Luci", numero: 7, ruolo: "O", figura: "", militanza: 1 }
+  - { nome: "Davo", numero: 8, ruolo: "O", figura: "", militanza: 1 }
+  - { nome: "Elitsa", numero: 10, ruolo: "B", figura: "", militanza: 5 }
+  - { nome: "Jack", numero: 14, ruolo: "B", figura: "", militanza: 1 }
+  - { nome: "Ele", numero: 16, ruolo: "B", figura: "", militanza: 4 }
+  - { nome: "Marghe", numero: 19, ruolo: "B", figura: "", militanza: 3 }
