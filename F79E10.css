@@ -19,6 +19,8 @@ body {
 	text-align: justify !important;
 	text-justify: inter-character;
 	hyphens: auto;
+
+	font-family: 'Noto Sans' !important;
 }
 
 em, a:link, a:visited {
