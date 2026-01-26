@@ -10,7 +10,7 @@ tornei:
       - { data: "04/12/2025", avversario: "Sporting M2", risultato: "3 · 2", classe: "text-success" }
       - { data: "11/12/2025", avversario: "Black Bulls S", risultato: "0 · 3", classe: "text-danger" }
       - { data: "16/01/2026", avversario: "Volley Dasa", risultato: "0 · 3", classe: "text-danger" }
-      - { data: "23/01/2026", avversario: "Ribbelly", risultato: "", classe: "" }
+      - { data: "23/01/2026", avversario: "Ribbelly", risultato: "1 · 3", classe: "text-danger" }
       - { data: "29/01/2026", avversario: "SuperTeam", risultato: "", classe: "" }
       - { data: "03/02/2026", avversario: "TVS", risultato: "", classe: "" }
       - { data: "05/02/2026", avversario: "PM Sport", risultato: "", classe: "" }
