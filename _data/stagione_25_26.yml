@@ -13,7 +13,7 @@ tornei:
       - { data: "23/01/2026", avversario: "Ribbelly", risultato: "1 · 3", classe: "text-danger" }
       - { data: "29/01/2026", avversario: "SuperTeam", risultato: "0 · 3", classe: "text-danger" }
       - { data: "03/02/2026", avversario: "TVS", risultato: "3 · 2", classe: "text-success" }
-      - { data: "05/02/2026", avversario: "PM Sport", risultato: "", classe: "" }
+      - { data: "05/02/2026", avversario: "PM Sport", risultato: "2 · 3", classe: "text-danger" }
       - { data: "12/02/2026", avversario: "Sporting M2", risultato: "", classe: "" }
       - { data: "18/02/2026", avversario: "Black Bulls S", risultato: "", classe: "" }
 
