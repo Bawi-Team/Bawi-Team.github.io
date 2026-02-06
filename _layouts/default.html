@@ -14,7 +14,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 	<title>Bawi Team - {{ page.title }}</title>
 
-	<meta name="date" content="2026-01-17" scheme="YYYY-MM-DD">
+	<meta name="date" content="2026-02-06" scheme="YYYY-MM-DD">
 	<meta name="author" content="Maione Michele">
 	<meta name="description" content="Bawi Team website">
 
@@ -40,11 +40,20 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 	<p>Benvenuto nel sito della squadra di pallavolo mista Bawi Team.</p>
 	<nav>
 	{% for stagione in site.data.stagioni %}
-		{% if page.url contains stagione.url or (page.url == "/" and stagione.url == "index.html") %}
-		<b>{{ stagione.testo }}</b>
-		{% else %}
-		<a id="nav_{{ stagione.id }}" href="{{ site.baseurl }}/{{ stagione.url }}">{{ stagione.testo }}</a>
+		{% assign is_current_season = false %}
+
+		{% if page.url contains stagione.url %}
+			{% assign is_current_season = true %}
+		{% elsif page.url == "/" and stagione.url == "index.html" %}
+			{% assign is_current_season = true %}
 		{% endif %}
+
+		{% if is_current_season %}
+			<b>{{ stagione.testo }}</b>
+		{% else %}
+			<a id="nav_{{ stagione.id }}" href="{{ site.baseurl }}/{{ stagione.url }}">{{ stagione.testo }}</a>
+		{% endif %}
+
 		{% unless forloop.last %} | {% endunless %}
 	{% endfor %}
 	</nav>
