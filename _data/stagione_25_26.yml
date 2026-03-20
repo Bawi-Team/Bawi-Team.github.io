@@ -2,7 +2,7 @@ tornei:
   - titolo: "US ACLI - Italian Volley League Primaverile 25/26"
     descrizione: "Torneo del Unione Sportiva Associazioni Cristiane Lavoratori Italiani a 4 squadre."
     partite:
-      - { data: "19/03/2026", avversario: "Jurassici", risultato: "? · ?", classe: "" }
+      - { data: "19/03/2026", avversario: "Jurassici", risultato: "3 · 1", classe: "text-success" }
       - { data: "22/03/2026", avversario: "Goss Volley", risultato: "? · ?", classe: "" }
       - { data: "27/03/2026", avversario: "T.S.O. Robbiano", risultato: "? · ?", classe: "" }
       - { data: "16/04/2026", avversario: "Goss Volley", risultato: "? · ?", classe: "" }
