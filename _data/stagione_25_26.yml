@@ -3,7 +3,7 @@ tornei:
     descrizione: "Torneo del Unione Sportiva Associazioni Cristiane Lavoratori Italiani a 4 squadre."
     partite:
       - { data: "19/03/2026", avversario: "Jurassici", risultato: "3 · 1", classe: "text-success" }
-      - { data: "27/03/2026", avversario: "T.S.O. Robbiano", risultato: "? · ?", classe: "" }
+      - { data: "27/03/2026", avversario: "T.S.O. Robbiano", risultato: "3 · 0", classe: "text-success" }
       - { data: "16/04/2026", avversario: "Goss Volley", risultato: "? · ?", classe: "" }
       - { data: "22/04/2026", avversario: "Goss Volley", risultato: "? · ?", classe: "" }
       - { data: "24/04/2026", avversario: "Jurassici", risultato: "? · ?", classe: "" }
@@ -31,6 +31,7 @@ tornei:
       - { data: "18/02/2026", avversario: "Black Bulls S", risultato: "1 · 3", classe: "text-danger" }
 
 foto:
+  - { src: "match_2026_03_27.jpg", data: "27/03/2026", desc: "Contro i T.S.O. Robbiano" }
   - { src: "match_2026_03_19.jpg", data: "19/03/2026", desc: "Contro i Jurassici" }
   - { src: "match_2025_12_04.jpg", data: "04/12/2025", desc: "Contro gli Sporting M2" }
   - { src: "match_2025_12_04_b.jpg", data: "04/12/2025", desc: "Contro gli Sporting M2" }
