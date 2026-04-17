@@ -2,3 +2,10 @@ title: Bawi Team
 description: Bawi Team website
 baseurl: "" # Lascia vuoto se il dominio è bawi-team.github.io
 url: "https://bawi-team.github.io"
+
+exclude:
+  - _site/
+  - Gemfile
+  - Gemfile.lock
+  - .jekyll-cache/
+  - .sass-cache/
