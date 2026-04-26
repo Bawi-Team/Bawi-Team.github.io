@@ -14,7 +14,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 	<title>Bawi Team - {{ page.title }}</title>
 
-	<meta name="date" content="2026-04-25" scheme="YYYY-MM-DD">
+	<meta name="date" content="2026-04-26" scheme="YYYY-MM-DD">
 	<meta name="author" content="Maione Michele">
 	<meta name="description" content="Bawi Team website">
 
@@ -41,7 +41,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 <body>
 
-	<h1><img alt="Logo" class="img" src="logo.png">Bawi Team</h1>
+	<h1><img alt="Logo del Bawi Team" class="bawilogo" src="logo.png">Bawi Team</h1>
 
 	<p>Benvenuto nel sito della squadra di pallavolo mista Bawi Team.</p>
 	<nav>
@@ -102,16 +102,16 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 	<h2>La squadra</h2>
 	<p>Il Bawi Team nasce dalla passione per la pallavolo di un gruppo misto di studenti dell'Università di Milano.</p>
 
-	<div id="carouselExampleCaptions" class="mb-3 carousel slide" data-bs-ride="carousel">
+	<div id="caroselloFoto" class="mb-3 carousel slide" data-bs-ride="carousel">
 		<div class="carousel-indicators">
 			{% for item in d.foto %}
-			<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="{{ forloop.index0 }}" {% if forloop.first %}class="active" aria-current="true"{% endif %}></button>
+			<button type="button" data-bs-target="#caroselloFoto" data-bs-slide-to="{{ forloop.index0 }}" {% if forloop.first %}class="active" aria-current="true"{% endif %}></button>
 			{% endfor %}
 		</div>
 		<div class="carousel-inner">
 			{% for item in d.foto %}
 			<div class="carousel-item {% if forloop.first %}active{% endif %}">
-				<img src="foto/{{ item.src }}" class="d-block w-100">
+				<img class="d-block w-100" src="foto/{{ item.src }}" alt="{{ item.data }} - {{ item.desc }}">
 				<div class="carousel-caption d-none d-md-block">
 					<h5>{{ item.data }}</h5>
 					<p>{{ item.desc }}</p>
@@ -119,10 +119,10 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 			</div>
 			{% endfor %}
 		</div>
-		<button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+		<button class="carousel-control-prev" type="button" data-bs-target="#caroselloFoto" data-bs-slide="prev">
 			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 		</button>
-		<button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+		<button class="carousel-control-next" type="button" data-bs-target="#caroselloFoto" data-bs-slide="next">
 			<span class="carousel-control-next-icon" aria-hidden="true"></span>
 		</button>
 	</div>
