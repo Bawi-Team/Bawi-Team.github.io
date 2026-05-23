@@ -40,3 +40,8 @@ a:active, a:hover {
 nav {
 	margin-bottom: 1rem;
 }
+
+/* Effetto alone scuro per i testi del carosello */
+.carousel-shadow-text {
+	text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8), -1px -1px 3px rgba(0, 0, 0, 0.8);
+}

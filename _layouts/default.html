@@ -14,7 +14,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 	<title>Bawi Team - {{ page.title }}</title>
 
-	<meta name="date" content="2026-05-15" scheme="YYYY-MM-DD">
+	<meta name="date" content="2026-05-23" scheme="YYYY-MM-DD">
 	<meta name="author" content="Maione Michele">
 	<meta name="description" content="Bawi Team website">
 
@@ -112,7 +112,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 			{% for item in d.foto %}
 			<div class="carousel-item {% if forloop.first %}active{% endif %}">
 				<img class="d-block w-100" src="foto/{{ item.src }}" alt="{{ item.data }} - {{ item.desc }}">
-				<div class="carousel-caption d-none d-md-block">
+				<div class="carousel-caption d-none d-md-block carousel-shadow-text">
 					<h5>{{ item.data }}</h5>
 					<p>{{ item.desc }}</p>
 				</div>

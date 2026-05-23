@@ -10,7 +10,7 @@ tornei:
       - { data: "30/04/2026", avversario: "T.S.O. Robbiano", risultato: "3 · 0", classe: "text-success" }
       - { data: "10/05/2026", avversario: "Goss Volley", risultato: "2 · 3", classe: "text-danger" }
       - { data: "14/05/2026", avversario: "Jurassici", risultato: "2 · 3", classe: "text-danger" }
-      - { data: "22/05/2026", avversario: "T.S.O. Robbiano", risultato: "? · ?", classe: "" }
+      - { data: "22/05/2026", avversario: "T.S.O. Robbiano", risultato: "3 · 1", classe: "text-success" }
 
   - titolo: "US ACLI - Italian Volley League Invernale 25/26"
     descrizione: "Torneo del Unione Sportiva Associazioni Cristiane Lavoratori Italiani a 8 squadre."
@@ -31,6 +31,7 @@ tornei:
       - { data: "18/02/2026", avversario: "Black Bulls S", risultato: "1 · 3", classe: "text-danger" }
 
 foto:
+  - { src: "match_2026_05_22.jpg", data: "22/05/2026", desc: "Contro i T.S.O. Robbiano" }
   - { src: "match_2026_04_30.jpg", data: "30/04/2026", desc: "Contro i T.S.O. Robbiano" }
   - { src: "match_2026_04_24.jpg", data: "24/04/2026", desc: "Contro i Jurassici" }
   - { src: "match_2026_04_22.jpg", data: "22/04/2026", desc: "Contro i Goss Volley" }
