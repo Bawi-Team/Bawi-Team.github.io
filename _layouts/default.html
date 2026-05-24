@@ -14,7 +14,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 	<title>Bawi Team - {{ page.title }}</title>
 
-	<meta name="date" content="2026-05-23" scheme="YYYY-MM-DD">
+	<meta name="date" content="2026-05-24" scheme="YYYY-MM-DD">
 	<meta name="author" content="Maione Michele">
 	<meta name="description" content="Bawi Team website">
 
@@ -90,9 +90,15 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		<tbody>
 			{% for partita in torneo.partite %}
 			<tr>
-				<td>{{ partita.data }}</td>
-				<td>{{ partita.avversario }}</td>
-				<td class="{{ partita.classe }}">{{ partita.risultato }}</td>
+				<td>
+					<time datetime="{{ partita.data | date: "%Y-%m-%d" }}">{{ partita.data }}</time>
+				</td>
+				<td>
+					{{ partita.avversario }}
+				</td>
+				<td class="{{ partita.classe }}">
+					{{ partita.risultato }}
+				</td>
 			</tr>
 			{% endfor %}
 		</tbody>
@@ -112,8 +118,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 			{% for item in d.foto %}
 			<div class="carousel-item {% if forloop.first %}active{% endif %}">
 				<img class="d-block w-100" src="foto/{{ item.src }}" alt="{{ item.data }} - {{ item.desc }}">
-				<div class="carousel-caption d-none d-md-block carousel-shadow-text">
-					<h5>{{ item.data }}</h5>
+				<div class="carousel-caption carousel-shadow-text">
+					<time datetime="{{ item.data | date: "%Y-%m-%d" }}">{{ item.data }}</time>
 					<p>{{ item.desc }}</p>
 				</div>
 			</div>
