@@ -1,0 +1,17 @@
+foto:
+  - { src: "match_2026_05_22.jpg", data: "22/05/2026", desc: "Contro i T.S.O. Robbiano" }
+  - { src: "match_2026_04_30.jpg", data: "30/04/2026", desc: "Contro i T.S.O. Robbiano" }
+  - { src: "match_2026_04_24.jpg", data: "24/04/2026", desc: "Contro i Jurassici" }
+  - { src: "match_2026_04_22.jpg", data: "22/04/2026", desc: "Contro i Goss Volley" }
+  - { src: "match_2026_03_27.jpg", data: "27/03/2026", desc: "Contro i T.S.O. Robbiano" }
+  - { src: "match_2026_03_19.jpg", data: "19/03/2026", desc: "Contro i Jurassici" }
+
+rosa:
+  - { nome: "Ipnotix", numero: 17, ruolo: "P", figura: "V", figura_classe: "text-info", militanza: 4 }
+  - { nome: "Leo", numero: 4, ruolo: "C", figura: "C", figura_classe: "text-primary", militanza: 4 }
+  - { nome: "Elga", numero: 23, ruolo: "C", figura: "", militanza: 4 }
+  - { nome: "Luci", numero: 7, ruolo: "O", figura: "", militanza: 2 }
+  - { nome: "Davo", numero: 8, ruolo: "O", figura: "", militanza: 2 }
+  - { nome: "Elitsa", numero: 10, ruolo: "B", figura: "", militanza: 6 }
+  - { nome: "Jack", numero: 14, ruolo: "B", figura: "", militanza: 2 }
+  - { nome: "Ele", numero: 16, ruolo: "B", figura: "", militanza: 5 }

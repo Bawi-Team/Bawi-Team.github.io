@@ -9,3 +9,5 @@ exclude:
   - Gemfile.lock
   - .jekyll-cache/
   - .sass-cache/
+  - vendor/
+  - .bundle/
