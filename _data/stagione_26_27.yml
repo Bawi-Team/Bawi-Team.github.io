@@ -8,10 +8,18 @@ foto:
 
 rosa:
   - { nome: "Ipnotix", numero: 17, ruolo: "P", figura: "V", figura_classe: "text-info", militanza: 4 }
+  - { nome: "Kleiuu", numero: 2, ruolo: "P", figura: "", militanza: 1 }
   - { nome: "Leo", numero: 4, ruolo: "C", figura: "C", figura_classe: "text-primary", militanza: 4 }
   - { nome: "Elga", numero: 23, ruolo: "C", figura: "", militanza: 4 }
+  - { nome: "Riky", numero: 1, ruolo: "C", figura: "", militanza: 1 }
+  - { nome: "Zack", numero: 24, ruolo: "C", figura: "", militanza: 1 }
   - { nome: "Luci", numero: 7, ruolo: "O", figura: "", militanza: 2 }
-  - { nome: "Davo", numero: 8, ruolo: "O", figura: "", militanza: 2 }
-  - { nome: "Elitsa", numero: 10, ruolo: "B", figura: "", militanza: 6 }
+  - { nome: "Filgamer", numero: 44, ruolo: "O", figura: "", militanza: 1 }
+  - { nome: "Mosi", numero: 21, ruolo: "O", figura: "", militanza: 1 }  
   - { nome: "Jack", numero: 14, ruolo: "B", figura: "", militanza: 2 }
   - { nome: "Ele", numero: 16, ruolo: "B", figura: "", militanza: 5 }
+  - { nome: "Ceyda", numero: 5, ruolo: "B", figura: "", militanza: 1 }
+  - { nome: "MaryP", numero: 19, ruolo: "B", figura: "", militanza: 1 }
+  - { nome: "Elitsa", numero: 10, ruolo: "L", figura: "", militanza: 6 }
+  - { nome: "Chia", numero: 9, ruolo: "L", figura: "", militanza: 1 }
+  - { nome: "Fra", numero: 22, ruolo: "L", figura: "", militanza: 1 }
