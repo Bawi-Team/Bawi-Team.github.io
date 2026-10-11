@@ -15,7 +15,7 @@ rosa:
   - { nome: "Zack", numero: 24, ruolo: "C", figura: "", militanza: 1 }
   - { nome: "Luci", numero: 7, ruolo: "O", figura: "", militanza: 2 }
   - { nome: "Filgamer", numero: 44, ruolo: "O", figura: "", militanza: 1 }
-  - { nome: "Mosi", numero: 21, ruolo: "O", figura: "", militanza: 1 }  
+  - { nome: "Mosi", numero: 21, ruolo: "O", figura: "", militanza: 6 }  
   - { nome: "Jack", numero: 14, ruolo: "B", figura: "", militanza: 2 }
   - { nome: "Ele", numero: 16, ruolo: "B", figura: "", militanza: 5 }
   - { nome: "Ceyda", numero: 5, ruolo: "B", figura: "", militanza: 1 }
