@@ -1,3 +1,20 @@
+tornei:
+  - titolo: "US ACLI - Italian Volley League Invernale 26/27"
+    descrizione: "Torneo del Unione Sportiva Associazioni Cristiane Lavoratori Italiani a 7 squadre."
+    partite:
+      - { data: "01/11/2026", avversario: "San Carlo Volley", risultato: "? · ?", classe: "" }
+      - { data: "05/11/2026", avversario: "Rondinella", risultato: "? · ?", classe: "" }      
+      - { data: "20/11/2026", avversario: "T.S.O. Robbiano", risultato: "? · ?", classe: "" }
+      - { data: "26/11/2026", avversario: "Pallavogliare", risultato: "? · ?", classe: "" }
+      - { data: "04/12/2026", avversario: "Oratorio Santa Valeria", risultato: "? · ?", classe: "" }
+      - { data: "10/12/2026", avversario: "US Acli Cinisello Crazy", risultato: "? · ?", classe: "" }
+      - { data: "17/12/2026", avversario: "San Carlo Volley", risultato: "? · ?", classe: "" }
+      - { data: "10/01/2027", avversario: "Rondinella", risultato: "? · ?", classe: "" }
+      - { data: "21/01/2027", avversario: "T.S.O. Robbiano", risultato: "? · ?", classe: "" }
+      - { data: "04/02/2027", avversario: "Oratorio Santa Valeria", risultato: "? · ?", classe: "" }
+      - { data: "08/02/2027", avversario: "US Acli Cinisello Crazy", risultato: "? · ?", classe: "" }
+      - { data: "16/02/2027", avversario: "Pallavogliare", risultato: "? · ?", classe: "" }
+
 foto:
   - { src: "match_2026_05_22.jpg", data: "22/05/2026", desc: "Contro i T.S.O. Robbiano" }
   - { src: "match_2026_04_30.jpg", data: "30/04/2026", desc: "Contro i T.S.O. Robbiano" }
