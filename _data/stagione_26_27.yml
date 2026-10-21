@@ -16,6 +16,7 @@ tornei:
       - { data: "16/02/2027", avversario: "Pallavogliare", risultato: "? · ?", classe: "" }
 
 foto:
+  - { src: "bb_2627.jpg", data: "20/10/2026", desc: "Formazione 2026/2027" }
   - { src: "match_2026_05_22.jpg", data: "22/05/2026", desc: "Contro i T.S.O. Robbiano" }
   - { src: "match_2026_04_30.jpg", data: "30/04/2026", desc: "Contro i T.S.O. Robbiano" }
   - { src: "match_2026_04_24.jpg", data: "24/04/2026", desc: "Contro i Jurassici" }
