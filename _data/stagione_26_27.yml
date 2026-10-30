@@ -2,7 +2,7 @@ tornei:
   - titolo: "US ACLI - Italian Volley League Invernale 26/27"
     descrizione: "Torneo del Unione Sportiva Associazioni Cristiane Lavoratori Italiani a 7 squadre."
     partite:
-      - { data: "29/10/2026", avversario: "Rondinella", risultato: "? · ?", classe: "" }
+      - { data: "29/10/2026", avversario: "Rondinella", risultato: "0 · 3", classe: "text-danger" }
       - { data: "01/11/2026", avversario: "San Carlo Volley", risultato: "? · ?", classe: "" }
       - { data: "20/11/2026", avversario: "T.S.O. Robbiano", risultato: "? · ?", classe: "" }
       - { data: "26/11/2026", avversario: "Pallavogliare", risultato: "? · ?", classe: "" }
