@@ -5,11 +5,11 @@ tornei:
       - { data: "29/10/2026", avversario: "Rondinella", risultato: "0 · 3", classe: "text-danger" }
       - { data: "01/11/2026", avversario: "San Carlo Volley", risultato: "3 · 2", classe: "text-success" }
       - { data: "20/11/2026", avversario: "T.S.O. Robbiano", risultato: "? · ?", classe: "" }
-      - { data: "26/11/2026", avversario: "Pallavogliare", risultato: "? · ?", classe: "" }
-      - { data: "04/12/2026", avversario: "Oratorio Santa Valeria", risultato: "? · ?", classe: "" }
+      - { data: "26/11/2026", avversario: "Pallavogliare", risultato: "? · ?", classe: "" }      
       - { data: "10/12/2026", avversario: "US Acli Cinisello Crazy", risultato: "? · ?", classe: "" }
       - { data: "17/12/2026", avversario: "San Carlo Volley", risultato: "? · ?", classe: "" }
       - { data: "10/01/2027", avversario: "Rondinella", risultato: "? · ?", classe: "" }
+      - { data: "13/01/2027", avversario: "Oratorio Santa Valeria", risultato: "? · ?", classe: "" }
       - { data: "21/01/2027", avversario: "T.S.O. Robbiano", risultato: "? · ?", classe: "" }
       - { data: "04/02/2027", avversario: "Oratorio Santa Valeria", risultato: "? · ?", classe: "" }
       - { data: "08/02/2027", avversario: "US Acli Cinisello Crazy", risultato: "? · ?", classe: "" }
