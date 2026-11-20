@@ -20,7 +20,13 @@ Assicurati di avere Ruby installato sul tuo sistema:
 bundle install
 ```
 
-#### 3. Anteprima locale
+#### 3. Aggiornamento dipendenze (ogni volta)
+Aggiornare tutti i pacchetti:
+```bash
+bundle update
+```
+
+#### 4. Anteprima locale
 Per vedere le modifiche in tempo reale prima di pubblicarle, avvia il server Jekyll:
 ```bash
 bundle exec jekyll serve
@@ -28,13 +34,13 @@ bundle exec jekyll serve
 
 Una volta avviato, il sito sarà visibile su: `http://localhost:4000`
 
-#### 4. Struttura dei dati
+#### 5. Struttura dei dati
 Per aggiornare i contenuti senza toccare l'HTML:
 * **Navigazione**: Modifica `_data/stagioni.yml`
 * **Dati Stagione**: Modifica o aggiungi file in `_data/stagione_XX_XX.yml`
 * **Layout**: La grafica comune si trova in `_layouts/default.html`
 
-#### 5. Pubblicazione
+#### 6. Pubblicazione
 Una volta apportate le modifiche, esegui i seguenti comandi:
 ```bash
 git status
