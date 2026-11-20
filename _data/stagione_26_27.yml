@@ -16,8 +16,8 @@ tornei:
       - { data: "16/02/2027", avversario: "Pallavogliare", risultato: "? · ?", classe: "" }
 
 foto:
-  - { src: "bb_2627.jpg", data: "20/10/2026", desc: "Formazione 2026/2027" }
   - { src: "match_2026_11_01.jpg", data: "01/11/2026", desc: "Contro i San Carlo Volley" }
+  - { src: "bb_2627.jpg", data: "20/10/2026", desc: "Formazione 2026/2027" }
 
 rosa:
   - { nome: "Ipnotix", numero: 17, ruolo: "P", figura: "V", figura_classe: "text-info", militanza: 4 }
